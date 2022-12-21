@@ -1,6 +1,6 @@
 # Generate Your Personal YouTube Report
-<img src="https://i.imgur.com/u7BZQNr.png" alt="avatar" width="571" height="656">
-<img src="https://i.imgur.com/RVpM6yM.png" alt="avatar" width="571" height="278">
+<img src="https://i.imgur.com/ZWGHIhr.png" alt="avatar" width="571" height="656">
+<img src="https://i.imgur.com/cN3aaV2.png" alt="avatar" width="571" height="278">
 
 ## Getting Started
 
