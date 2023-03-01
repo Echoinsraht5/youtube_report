@@ -16,9 +16,7 @@ Also,it's totally okay to download following data since script only use them in 
 <img src="https://i.imgur.com/UT22gRr.png" alt="avatar" width="571" height="656">
 <img src="https://i.imgur.com/nDXiP12.png" alt="avatar" width="571" height="656">
 
-To use this script, you only need to select and download "YouTube", which Google will provide to you as a Zip file by default.
-
-<img src="https://i.ibb.co/Wk1LZ7N/Screenshot-4.png" alt="avatar" style="zoom: 200%;" />
+To use this script, you only need to select and download part of "YouTube", which Google will provide to you as a Zip file by default.
 
 ### 3. Clone This Repository
 
