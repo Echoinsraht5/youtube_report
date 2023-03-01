@@ -12,7 +12,6 @@ If you don't already have Python 3+ installed on your computer, download it from
 
 Here you can find out how to download your Google data: https://support.google.com/accounts/answer/3024190?hl=en
 Here you can download all of the data that Google has stored on you: https://takeout.google.com/
-Also,it's totally okay to download following data since script only use them in this repo
 <img src="https://i.imgur.com/UT22gRr.png" alt="avatar" width="571" height="656">
 <img src="https://i.imgur.com/nDXiP12.png" alt="avatar" width="571" height="656">
 
