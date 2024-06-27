@@ -19,7 +19,7 @@ To use this script, you only need to select and download part of "YouTube", whic
 
 ### 3. Clone This Repository
 
-On https://github.com/A3M4/Personal-YouTube-Report-Generator, click the green "Clone or Download" button at the top right of the page. Then, click the "Download ZIP" button, and extract the ZIP somewhere on your computer.
+On [https://github.com/A3M4/Personal-YouTube-Report-Generator](https://github.com/Echoinsraht5/youtube_report), click the green "Clone or Download" button at the top right of the page. Then, click the "Download ZIP" button, and extract the ZIP somewhere on your computer.
 
 NOTE: Make sure to set your [Google Account language ](https://support.google.com/accounts/answer/32047)to English before downloading
 
